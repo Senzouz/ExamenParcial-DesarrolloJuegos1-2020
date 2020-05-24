@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027698743377",
+    "firebase_url": "https://pruebaupc01-3352a.firebaseio.com",
+    "project_id": "pruebaupc01-3352a",
+    "storage_bucket": "pruebaupc01-3352a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027698743377:android:616658ff71f2e9c88f8070",
+        "android_client_info": {
+          "package_name": "com.UPChe.MiCuartoChapoteo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027698743377-qei1r3bfc86a94o494mvpc7a8llehkl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxd6xNfqKzfYAV5ZkjgshxTmGl0wj9Ypc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027698743377-qei1r3bfc86a94o494mvpc7a8llehkl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
